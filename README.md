@@ -17,10 +17,10 @@ This lab introduces essential network administration tasks such as system loggin
   Monitors and exports IP traffic data to a collector
 
 - **`OS/Platform:`**  
-  Linux,Hosts router/firewall, `syslog server` , `NetFlow` exporter/collector
+  Linux;Hosts router/firewall, `syslog server` , `NetFlow` exporter/collector
 
 - **`VRRP (Virtual Router Redundancy Protocol):`**  
-Implented, is a protocol that is used to provide redundancy and failover in a network. Itenables the routers in a virtual router group to sharet he same IP address and provides a mechanism for quickly switching the IP address from one router to another in the event of a failure.
+A protocol that is used to provide redundancy and failover in a network. Itenables the routers in a virtual router group to sharet he same IP address and provides a mechanism for quickly switching the IP address from one router to another in the event of a failure.
 
 
 ## OBJECTIVES:
