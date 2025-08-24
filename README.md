@@ -25,7 +25,7 @@ A protocol that is used to provide redundancy and failover in a network. Itenabl
 
 ## OBJECTIVES:
 
-The objective of the Network Administrator Lab is to provide hands-on experience in configuring and monitoring essential network services. 
+The objective of the Network Monitoring Lab is to provide hands-on experience in configuring and monitoring essential network services. 
 Specifically this lab aims to:
 
 - Configure and verify Syslog for centralized event logging.
