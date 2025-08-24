@@ -177,7 +177,7 @@ Close all windows after this is setup.
 
 ---
 
-*This hands-on exercise provided a practical understanding of network health through monitoring and tracking traffic using tools like Syslog and NetFlow.
+*This hands-on exercise provided a practical understanding of network health through monitoring and tracking traffic using tools like Syslog and NetFlow.*
 
 ### 🔑 Key Takeaways
 
