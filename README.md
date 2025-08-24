@@ -6,7 +6,7 @@
 
 ## 📌 Introduction
 
-This lab introduces essential network administration tasks such as system logging, traffic monitoring, and router redundancy. Participants will configure Syslog for centralized logging, NetFlow for traffic analysis, and VRRP for high availability
+This lab introduces essential network administration tasks such as system logging, traffic monitoring, and router redundancy.  There will be configurations Syslog for centralized logging, NetFlow for traffic analysis, and VRRP for high availability.
 
 
 ## 🛠️ TECHNOLOGY & TOOLS UTILIZED
